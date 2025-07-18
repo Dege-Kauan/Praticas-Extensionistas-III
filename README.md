@@ -52,13 +52,19 @@ O teste é executado com `mvn test` e validado por meio do framework JUnit com s
 - Identificação dos usuários/clientes
 - Proposta de valor e funcionalidades
 
+---
+
 ## 📃 Requisitos do Sistema
 - Requisitos Funcionais (RF001 a RF015)
 - Requisitos Não Funcionais (RNF001 a RNF010)
+  
+---
 
 ## 🗂️ Modelagem de Banco de Dados
 - Modelo Entidade-Relacionamento Conceitual
 - Modelo Entidade-Relacionamento Lógico
+
+---
 
 ## 📐 Modelagem UML
 - Diagrama de Classes
