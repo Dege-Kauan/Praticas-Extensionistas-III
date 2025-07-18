@@ -47,20 +47,20 @@ O teste é executado com `mvn test` e validado por meio do framework JUnit com s
 
 ---
 
-##📄 **Modelo de Negócio e de Sistema**
+## 📄 Modelo de Negócio e de Sistema
 - Definição do problema
 - Identificação dos usuários/clientes
 - Proposta de valor e funcionalidades
 
-##📃 **Requisitos do Sistema**
+## 📃 Requisitos do Sistema
 - Requisitos Funcionais (RF001 a RF015)
 - Requisitos Não Funcionais (RNF001 a RNF010)
 
-##🗂️ **Modelagem de Banco de Dados**
+## 🗂️ Modelagem de Banco de Dados
 - Modelo Entidade-Relacionamento Conceitual
 - Modelo Entidade-Relacionamento Lógico
 
-##📐 **Modelagem UML**
+## 📐 Modelagem UML
 - Diagrama de Classes
 - Diagrama de Caso de Uso Geral
 - **Diagramas de Sequência** (um para cada fluxo principal)
