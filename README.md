@@ -43,32 +43,24 @@ Foi implementado um **teste de integração** utilizando Spring Boot para verifi
 
 O teste é executado com `mvn test` e validado por meio do framework JUnit com suporte ao MockMvc.
 
+- Teste disponível em: Desenvolvimento/back-end/comprasplus-api/src/test/java/br/com/comprasplus
+
 ---
 
-## 📁 Conteúdo do PDF
-
-O arquivo `Compras+.pdf` incluído neste repositório contém:
-
-### 1. 📄 **Modelo de Negócio e de Sistema**
+###📄 **Modelo de Negócio e de Sistema**
 - Definição do problema
 - Identificação dos usuários/clientes
 - Proposta de valor e funcionalidades
 
-### 2. 📃 **Requisitos do Sistema**
+###📃 **Requisitos do Sistema**
 - Requisitos Funcionais (RF001 a RF015)
 - Requisitos Não Funcionais (RNF001 a RNF010)
 
-### 3. 🧪 **Justificativa das Tecnologias Utilizadas**
-- Frontend: HTML, CSS e JavaScript
-- Backend: Java + Spring Boot
-- Banco de Dados: MySQL
-- Swagger para documentação da API
-
-### 4. 🗂️ **Modelagem de Banco de Dados**
+###🗂️ **Modelagem de Banco de Dados**
 - Modelo Entidade-Relacionamento Conceitual
 - Modelo Entidade-Relacionamento Lógico
 
-### 5. 📐 **Modelagem UML**
+###📐 **Modelagem UML**
 - Diagrama de Classes
 - Diagrama de Caso de Uso Geral
 - **Diagramas de Sequência** (um para cada fluxo principal)
@@ -100,9 +92,3 @@ O arquivo `Compras+.pdf` incluído neste repositório contém:
 ✅ Protótipo funcional implementado  
 ✅ Teste automatizado de integração executado com sucesso  
 🚀 Pronto para demonstração e entrega final
-
----
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos e pode ser utilizado como base para estudos e projetos semelhantes.
